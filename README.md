@@ -19,8 +19,8 @@ Columns include: Product Purchased, Age, Gender, Education, Marital Status, Usag
 
 Product Portfolio:
 
-KP281: Entry-level treadmill priced at $1,500
-KP481: Mid-level treadmill priced at $1,750
+KP281: Entry-level treadmill priced at $1,500,
+KP481: Mid-level treadmill priced at $1,750,
 KP781: Advanced treadmill priced at $2,500
 
 Analysis Outline:
@@ -42,10 +42,10 @@ Calculate marginal and conditional probabilities to derive insights into custome
 
 Strategic Recommendations:
 
-Implement Targeted Marketing Campaigns
-Offer Income-Based Promotions
-Consider Product Customization Options
-Enhance Customer Segmentation Strategies
+Implement Targeted Marketing Campaigns,
+Offer Income-Based Promotions,
+Consider Product Customization Options,
+Enhance Customer Segmentation Strategies,
 Optimize Usage-Based Product Positioning
 
 
